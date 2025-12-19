@@ -1,0 +1,5 @@
+{
+  "name": "Hadoop Viz - Flow",
+  "description": "A high-fidelity, motion-rich visualization of the Hadoop MapReduce workflow, featuring interactive data processing and presets.",
+  "requestFramePermissions": []
+}
